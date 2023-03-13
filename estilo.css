@@ -23,28 +23,6 @@ body{
     color: green;
 }
 
-#deepStyles{
-    color: red;
-}
-#deepStyles a{
-    color: red;
-    text-decoration: none;
-}
-
-#melhoresAmigas{
-    margin: 5px;
-    color: yellow;
-    background-image: url(5/treasoning.png);
-}
-
-#wppPrints a{
-    cursor: default;
-}
-
-#morteStyle{
-    color: grey;
-}
-
-#Verdades{
-    color: blue;
+#dPIMG{
+    cursor: crosshair;
 }
